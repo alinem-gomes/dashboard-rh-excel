@@ -28,3 +28,5 @@ Dashboard desenvolvido em Microsoft Excel para análise de indicadores de Recurs
 - Tabelas Dinâmicas
 - Fórmulas
 - Dashboard
+
+  📌 Dados fictícios utilizados exclusivamente para fins de estudo e composição de portfólio.
